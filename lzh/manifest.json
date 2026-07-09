@@ -1,0 +1,14 @@
+{
+	"Name": "文言",
+	"Authors": [
+		"Community"
+	],
+	"InterfaceLocales": [
+		"lzh"
+	],
+	"SystemLocales": [
+	],
+	"ForcedFontOrder": [
+		"NotoSansCJKtc-RegularDynamic"
+	]
+}

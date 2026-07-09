@@ -1,0 +1,25 @@
+# SCP: SL 眾文言譯本（未具）
+
+戲者文言譯，為眾之所纂。<br>
+
+現之文有多為俗話，按源譯之。<br>
+
+> 若汝須譯之新語，以洋文源增刪作纂改。<br>
+
+## 載法
+
+以 `git clone` 取庫內文，揀擇 `lzh` 案夾至遊戲案夾 `translation` 之夾裡。<br>
+
+取以行令：<br>
+```shell
+git clone https://github.com/365KW/SCP_SL_LZH
+```
+
+## 協
+
+蓋文言難譯，置協者通則，須投文至 `通譯14.2.7`枝：<br>
+
+- [協庫法](https://docs.github.com/zh/get-started/exploring-projects-on-github/contributing-to-a-project)
+- [章法通則](https://zh-classical.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E5%A4%A7%E5%85%B8:%E7%AB%A0%E6%B3%95)
+
+協譯者不得交俗字章文，不得令機械人譯增交譯本。<br>

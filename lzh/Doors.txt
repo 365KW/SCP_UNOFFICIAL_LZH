@@ -1,0 +1,10 @@
+<color=green>開</color>
+<color=#07A2FF>閉</color>
+<color=orange>于 動</color>
+<color=red>令 鎖</color>
+<color=red>故 障</color>
+<color=red>開之敗</color>
+<color=green>許開訪</color>
+<color=#07A2FF>求之門禁匙</color>
+<color=orange>可過門</color>
+<color=orange>于 閉</color>

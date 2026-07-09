@@ -1,0 +1,12 @@
+#INFO FOR TRANSLATORS: In this file you can use as many lines as you want, all of them will be displayed on the display above the door.
+MICRO-HID
+MICRO-HID
+貯存室
+貯存室
+
+僅
+僅
+以得權之
+以得權之
+工員
+工員

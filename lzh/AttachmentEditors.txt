@@ -1,0 +1,18 @@
+自定
+預設之[index]
+記設至錄
+除配件設置
+預設設置
+預 設
+配械站 - <color=#c00>未聯</color>
+<color=#ccc>02站 槍械設置自定處</color> - 待機中\n<size=39>擊屏使啟， <color=#ccc>僅許者可調。</color></size>
+善哉，調者！
+配械站正使啟
+配械站 - <color=#0c0>已啟</color>
+<size=52><color=#ccc>02站 槍械設置自定處</color> - 可調</size>\n<size=42><color=#ccc>裝備槍械進行置設。</color></size>
+止電供
+配械站關閉中
+呈報
+辭報
+[Attachment] 自設
+擊 [Key] 以調置設。
