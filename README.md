@@ -27,4 +27,4 @@ git clone https://github.com/365KW/SCP_SL_LZH
 > 君若欲參，方使復刻庫之器具得此庫，洋謂之「FORK」。<br>
 > 乃新立譯枝，使優選章文之交入主譯枝，再起合併請求。<br>
 
-有此間[凡例](https://github.com/365KW/SCP_UNOFFICIAL_LZH/tree/main/%E8%AD%AF%E5%BA%AB%E4%BB%8B%E9%9D%A2%E6%96%87%E6%9B%B8)，須觀也。
+有此間[凡例](https://github.com/365KW/SCP_UNOFFICIAL_LZH/tree/main/%E8%AD%AF%E5%BA%AB%E4%BB%8B%E9%9D%A2%E6%96%87%E6%9B%B8)，乃必觀也。
