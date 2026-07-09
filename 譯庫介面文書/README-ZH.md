@@ -1,24 +1,30 @@
-# SCP: SL 非官方文言翻譯項目
+# SCP: SL 非官方文言翻譯
 
-非官方的 SCP: 秘密實驗室的文言翻譯項目。<br>
+玩家文言翻譯，由社群共同編纂。<br>
 
-現有文本多譯自英文源文件。<br>
+現有文本多為白話，按照原文翻譯。<br>
 
-> 若需新增翻譯，請參考英文源文件進行增刪修改。<br>
+> 若需翻譯新內容，請以英文源文件進行增刪修改。<br>
 
-## 使用
+## 安裝
 
-用 `git clone` 克隆倉庫，將 `lzh` 文件夾放入遊戲根目錄下的 `translation` 目錄中。<br>
+使用 `git clone` 克隆倉庫，將 `lzh` 資料夾放入遊戲的 `translation` 目錄中。<br>
 
+執行命令：<br>
 ```shell
 git clone https://github.com/365KW/SCP_SL_LZH
 ```
 
 ## 貢獻
 
-文言翻譯殊為不易，請遵守以下規則。拉取請求請提交至 `通譯[最新版本]` 分支：<br>
+文言翻譯不易，以下為貢獻者通則：<br>
 
-- [GitHub貢獻通則](https://docs.github.com/zh/get-started/exploring-projects-on-github/contributing-to-a-project)
+- [GitHub 協作指南](https://docs.github.com/zh/get-started/exploring-projects-on-github/contributing-to-a-project)
 - [文言章法](https://zh-classical.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E5%A4%A7%E5%85%B8:%E7%AB%A0%E6%B3%95)
 
-貢獻者須具備紮實的文言功底，不得提交俗白文字或機器翻譯內容。<br>
+不得提交白話文字，不得使用機器翻譯提交譯本。<br>
+
+> 若欲參與，請使用 Fork 功能複製此倉庫。<br>
+> 新建翻譯分支，將精選的文言內容提交至主翻譯分支，再發起合併請求。<br>
+
+此處有[凡例](https://github.com/365KW/SCP_UNOFFICIAL_LZH/tree/main/%E8%AD%AF%E5%BA%AB%E4%BB%8B%E9%9D%A2%E6%96%87%E6%9B%B8)，請務必查閱。<br>
