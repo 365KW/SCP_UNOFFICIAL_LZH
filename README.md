@@ -22,7 +22,7 @@ git clone https://github.com/365KW/SCP_SL_LZH
 - [協庫法](https://docs.github.com/zh/get-started/exploring-projects-on-github/contributing-to-a-project)
 - [章法通則](https://zh-classical.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E5%A4%A7%E5%85%B8:%E7%AB%A0%E6%B3%95)
 
-不得交俗字章文，不得令機械人譯增交譯本。<br>
+不得交俗字章文，顧宜親力親爲，器械與機巧僞智者不足取也。。<br>
 
 > 君若欲參，方使復刻庫之器具得此庫，洋謂之「FORK」。<br>
 > 乃新立譯枝，使優選章文之交入主譯枝，再起合併請求。<br>
